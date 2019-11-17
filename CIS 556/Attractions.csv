@@ -1,0 +1,116 @@
+CITYID,ATTRACTIONNAME,attractiontype,STREET,phone,reviewnum,attractionscore
+0001,"African Bead Museum","Specialty Museums","6559 Grand River Ave","+1 313-898-3007",21,5
+0001,"Ambassador Bridge",Bridges,"3500 Toledo St",null,200,3
+0001,"Anna Scripps Whitcomb Conservatory",Gardens,"900 Inselruhe Ave","+1 313-821-5428",100,5
+0001,"Beacon Park","Nature & Parks","1901 Grand River Ave","+1 313-962-0101",2,5
+0001,"Belle Isle Aquarium",null,"900 Inselruhe Avenue","+1 313-402-0466",63,4
+0001,"Belle Isle Park",null,null,null,828,4
+0001,"Better Made Snack Foods","Other Food & Drink","10148 Gratiot Ave","+1 800-332-2394",6,5
+0001,"Bonstelle Theatre",Theaters,"3424 Woodward Ave","+1 313-577-2972",2,4
+0001,"Boston Edison Historic District","Historic Sites","Detroit, MI","+1 313-883-4360",30,5
+0001,Bricktown,null,null,null,7,4
+0001,"Cadillac Square",null,"Campus Martius Park",null,null,0
+0001,"Campus Martius Park",null,null,null,225,5
+0001,"Central United Methodist Church","Sacred & Religious Sites","23 E Adams Ave","+1 313-965-5422",4,4
+0001,"Century Club",Theaters,"333 Madison St","+1 313-963-9800",1,5
+0001,"Charles H. Wright Museum of African American History",Libraries,"315 E Warren Ave","+1 313-494-5800",221,5
+0001,"Chene Park Amphitheatre",Theaters,"2600 Atwater St","+1 313-393-7128",28,5
+0001,"Cobo Center","Conference & Convention Centers","1 Washington Blvd","+1 313-877-8777",209,4
+0001,"College for Creative Studies","Art Galleries","201 E Kirby St","+1 313-664-7400",24,5
+0001,"Comerica Park","Arenas & Stadiums","2100 Woodward Ave","+1 313-962-4000","2,328",5
+0001,"Corktown Historic District","Points of Interest & Landmarks","Trumbull St.",null,12,4
+0001,"Definitive Style Exclusive","Department Stores","202 E Grand River Ave","+1 313-389-6178",1,5
+0001,"Detroit City Distillery",Distilleries,"2462 Riopelle St","+1 313-338-3760",39,5
+0001,"Detroit Cultural Center Historic District",null,null,null,11,5
+0001,"Detroit Downtown",null,null,null,378,4
+0001,"Detroit Historical Museum","History Museums","5401 Woodward Ave","+1 313-833-7935",355,5
+0001,"Detroit Industrial Gallery",null,"3647 Heidelberg St","+1 313-742-1800",null,0
+0001,"Detroit Institute of Arts","Art Museums","5200 Woodward Ave","+1 313-833-7900","2,321",5
+0001,"Detroit Opera House",Theaters,"1526 Broadway St","+1 313-961-3500",184,5
+0001,"Detroit People Mover","Mass Transportation Systems","Detroit, MI 48226","+1 313-224-2160",664,4
+0001,"Detroit Public Library",Libraries,"5201 Woodward Ave","+1 313-481-1357",59,5
+0001,"Detroit Repertory Theatre",Theaters,"13103 Woodrow Wilson St","+1 313-868-1347",7,5
+0001,"Detroit RiverFront","Piers & Boardwalks","600 Renaissance Ctr","+1 313-396-7000","1,160",5
+0001,"Detroit Symphony Orchestra",Symphonies,"3711 Woodward Ave","+1 313-576-5111",117,5
+0001,"Detroit-Windsor Tunnel","Points of Interest & Landmarks","100 E Jefferson Ave","+1 313-567-4422",231,4
+0001,"DNR Outdoor Adventure Center","Natural History Museums","1801 Atwater St","+1 844-622-6367",71,5
+0001,"Dossin Great Lakes Museum","Specialty Museums","100 Strand Dr","+1 313-833-1805",115,5
+0001,"Earthworks Urban Farms",null,"1264 Meldrum St","+1 313-579-2100",2,4
+0001,"Eastern Market","Flea & Street Markets","2934 Russell St","+1 313-833-9300",360,5
+0001,"Elmwood Cemetary",Cemeteries,"1200 Elmwood St","+1 313-567-3453",3,5
+0001,"Fisher Building","Points of Interest & Landmarks","3011 W Grand Blvd","+1 313-873-7873",223,5
+0001,"Fisher Mansion","Historic Sites","383 Lenox St","+1 313-331-6740",13,4
+0001,"Fisher Theatre",Theaters,"3011 W Grand Blvd","+1 313-872-1000",161,5
+0001,"Ford Field","Arenas & Stadiums","2000 Brush St","+1 313-262-2000",712,5
+0001,"Fox Theatre",Theaters,"2211 Woodward Ave","+1 313-471-3200",428,5
+0001,"Gabriel Richard Park",null,null,null,2,5
+0001,"Gem & Century Theatres",Theaters,"333 Madison St","+1 313-963-9800",8,5
+0001,"GM Renaissance Center","Architectural Buildings","Jefferson Ave","+1 313-567-3126",471,4
+0001,"GM World","Specialty Museums","100 Renaissance Ctr",null,23,4
+0001,"Gospel Music Hall of Fame & Museum","Specialty Museums","18301 W McNichols Rd","+1 313-592-0346",3,4
+0001,"Grand Circus Park","Nature & Parks","Woodward Ave",null,8,4
+0001,"Grand River Creative Corridor","Points of Interest & Landmarks","Grand River Ave.",null,5,5
+0001,Greektown,null,null,null,681,4
+0001,"Greektown Casino","Casinos & Gambling","555 E Lafayette Blvd","+1 888-771-4386",368,3
+0001,"Hart Plaza","Points of Interest & Landmarks","1 Hart Plz","+1 313-877-8077",133,4
+0001,"Historic Fort Wayne","Historic Sites","6235 W Jefferson Ave","+1 313-224-6385",52,4
+0001,"Historic Trinity Lutheran Church","Sacred & Religious Sites","1345 Gratiot Ave","+1 313-567-3100",29,5
+0001,"Inner State Gallery","Art Galleries","1410 Gratiot Ave","+1 313-744-6505",1,5
+0001,"International Institute of Metropolitan Detroit","Specialty Museums","111 E Kirby St","+1 313-871-8600",1,5
+0001,"James Scott Memorial Fountain",Fountains,"Casino Way",null,13,5
+0001,"Joe Louis Arena","Arenas & Stadiums","19 Steve Yzerman Drive","+1 313-471-7000",586,4
+0001,"Joe Louis Monument","Monuments & Statues","5 Woodward Ave",null,99,4
+0001,"Lafayette Greens",null,null,null,2,5
+0001,"Lincoln Street Art Park","Points of Interest & Landmarks","5926 Lincoln St",null,6,4
+0001,"Little Caesars Arena","Arenas & Stadiums","2645 Woodward Ave","+1 313-349-5777",215,4
+0001,"Mariner Park",null,null,null,2,5
+0001,"Masonic Temple","Architectural Buildings","500 Temple St","+1 313-832-7100",109,4
+0001,"Matrix Theatre Company",null,"2730 Bagley St","+1 313-967-0999",null,0
+0001,"Max M. Fisher Music Center",Theaters,"3711 Woodward Ave","+1 313-576-5111",29,5
+0001,Mexicantown,null,null,null,228,5
+0001,"MGM Grand Detroit Casino","Fun & Games","1300 John C Lodge Fwy","+1 877-888-2121",381,4
+0001,"Michigan Central Station","Points of Interest & Landmarks","2405 W Vernor Hwy",null,85,4
+0001,"Michigan Labor Legacy Monument","Monuments & Statues","1 West Jefferson Avenue",null,4,5
+0001,"Michigan Science Center","Science Museums","5020 John R St","+1 313-577-8400",97,4
+0001,"Michigan Soldiers and Sailors Monument","Monuments & Statues","Michigan Ave.",null,11,4
+0001,"Midtown Detroit Dog Park",null,"Cass Ave","+1 901-636-4241",null,0
+0001,"Moross House","Architectural Buildings","1460 E Jefferson Ave","+1 313-259-6363",2,4
+0001,"MotorCity Casino","Fun & Games","2901 Grand River Ave","+1 877-777-0711",294,4
+0001,"Motown Museum","Historic Sites","2648 W Grand Blvd","+1 313-875-2264","1,591",5
+0001,"Mount Hazel Cemetery",Cemeteries,"18552 Lahser Rd",null,1,5
+0001,"Movement Electronic Music","Music Festivals","1 Hart Plz",null,4,5
+0001,"Museum of Contemporary Art","Specialty Museums","4454 Woodward Ave","+1 313-832-6622",19,4
+0001,"Palmer Park","Nature & Parks","19021 Woodward Ave","+1 313-224-1100",6,4
+0001,"Penobscot Building","Architectural Buildings","645 Griswold St","+1 313-961-8800",8,4
+0001,Poletown,null,null,null,2,5
+0001,"PuppetART Theater",Theaters,"25 E Grand River Ave","+1 313-961-7777",3,5
+0001,"River Rouge Park","Nature & Parks","21800 Joy Rd","+1 313-799-3677",5,2
+0001,"Riverfront-Lakewood East Park","Nature & Parks","Detroit, MI 48215",null,1,2
+0001,"Russell Industrial Center","Art Galleries","1600 Clay St","+1 313-872-4000",1,5
+0001,"Scarab Club","Art Galleries","217 Farnsworth St","+1 313-831-1250",11,4
+0001,"Second Baptist Church","Sacred & Religious Sites","441 Monroe St","+1 313-961-0920",3,5
+0001,"Senate Theater",Theaters,"Detroit, MI 48210","+1 313-894-0850",2,5
+0001,"Solanus Casey Center","Churches & Cathedrals","1780 Mount Elliott St","+1 313-579-2100",5,4
+0001,"Sound Board Theater",Theaters,"2901 Grand River Ave","+1 866-782-9622",47,5
+0001,"St Lazarus Serbian Orthodox Cathedral","Architectural Buildings","4575 E Outer Dr","+1 313-893-6025",1,5
+0001,"Ste. Anne de Detroit Church","Sacred & Religious Sites","1000 Sainte Anne St","+1 313-496-1701",13,5
+0001,"Sweetest Heart of Mary Roman Catholic Church","Points of Interest & Landmarks","4440 Russell St","+1 313-831-6659",22,5
+0001,"Swords into Plowshares Peace Center and Art Gallery","Art Galleries","33 E Adams Ave","+1 313-963-7575",1,4
+0001,"The Cathedral Church of St. Paul","Churches & Cathedrals","4800 Woodward Ave","+1 313-831-5000",4,5
+0001,"The Fillmore Detroit",Theaters,"2115 Woodward Ave","+1 313-961-5451",82,5
+0001,"The Ford Piquette Avenue Plant","Historic Sites","461 Piquette St","+1 313-872-8759",345,5
+0001,"The Guardian Building","Architectural Buildings","500 Griswold St","+1 313-963-4567",565,5
+0001,"The Heidelberg Project","Art Galleries","3680 Heidelberg St","+1 313-458-8414",313,4
+0001,"The Redford Theatre",Theaters,"17360 Lahser Rd","+1 313-537-2560",50,5
+0001,"The Spirit of Detroit","Points of Interest & Landmarks","2 Woodward Ave",null,114,5
+0001,"The Z Lot","Points of Interest & Landmarks","Broadway Ave",null,43,5
+0001,"Tiger Stadium Site","Arenas & Stadiums","Michigan and Trumble The Corner",null,20,4
+0001,"Tuskegee Airmen National Museum","Military Museums","6235 W Jefferson Ave","+1 313-843-8849",4,4
+0001,"Two James Spirits","Other Food & Drink","2445 Michigan Ave",null,59,5
+0001,"Walter P. Reuther Library",null,"5401 Cass Ave","+1 313-577-4024",null,0
+0001,"Wayne County Family Aquatic Center","Sports Complexes","12600 Chandler Park Dr","+1 313-822-7665",2,5
+0001,"West Riverfront Park","Nature & Parks","1801 W Jefferson Ave",null,7,4
+0001,"William G. Milliken State Park and Harbor",null,null,null,38,5
+0001,"William Livingstone Memorial Lighthouse",Lighthouses,"2 Inselruhe","+1 313-852-4075",8,4
+0001,"Woodlawn Cemetery",Cemeteries,"19975 Woodward Ave","+1 313-368-0010",13,4
+0001,"Woodward Avenue","Points of Interest & Landmarks","Woodward Ave","+1 248-591-3300",83,4

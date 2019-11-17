@@ -1,0 +1,39 @@
+show databases;
+use SceneryReview;
+show tables;
+
+select * from Users limit 1000;
+select * from Reviews limit 1000;
+select * from Cities limit 1000;
+select * from Attractions limit 1000;
+select * from Nearby_hotel limit 1000;
+select * from Nearby_restaurant limit 1000;
+select * from Nearby_attraction limit 1000;
+
+
+#DROP INDEX index_attraction ON Attractions;
+#CREATE INDEX index_attraction ON Attractions (attractionname);
+#CREATE INDEX index_city ON Cities (CITYNAME);
+#DESCRIBE Users;
+
+#CREATE USER 'wenqing'@'192.168.1.10' IDENTIFIED BY 'wenqing';
+#GRANT All ON SceneryReview.* TO 'wenqing'@'192.168.1.10';
+
+#update, delete, can only set in key
+#DELETE FROM Users WHERE UserID = 'Kropell';
+#select * from Users limit 1000;
+#SELECT COUNT(*) FROM Attractions;
+#SELECT COUNT(*) FROM Users;
+SELECT COUNT(*) FROM Reviews;
+#update only can set key
+#UPDATE Users SET address = 'America' WHERE USERID = '03221108michelle';
+#select * from Users WHERE USERID = '03221108michelle';
+#select * from Users limit 1000;
+#DELETE FROM Users WHERE USERID = '2Moore';
+#select * from Users limit 1000;
+
+#insert into Cities values("0002","Dearborn","the_United_States","Michigan","America","0");
+#select * from Cities limit 1000;
+
+#DELETE FROM Cities WHERE CITYID = '0002';
+#select * from Cities limit 1000;
